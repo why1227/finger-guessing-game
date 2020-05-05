@@ -1,0 +1,10 @@
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\bin\Debug\finger-guessing game.exe.config
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\bin\Debug\finger-guessing game.exe
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\bin\Debug\finger-guessing game.pdb
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger-guessing game.csprojAssemblyReference.cache
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger_guessing_game.Form1.resources
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger_guessing_game.Properties.Resources.resources
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger-guessing game.csproj.GenerateResource.cache
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger-guessing game.csproj.CoreCompileInputs.cache
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger-guessing game.exe
+F:\VS-program\Stage1\finger-guessing game\finger-guessing game\obj\Debug\finger-guessing game.pdb
