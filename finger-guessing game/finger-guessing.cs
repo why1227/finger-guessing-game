@@ -46,6 +46,7 @@ namespace finger_guessing_game
         {
             start_game("布");
         }
+
         //无论点击哪个都用这个（三个点击都用这个）
         private void button_Click(object sender, EventArgs e)
         {

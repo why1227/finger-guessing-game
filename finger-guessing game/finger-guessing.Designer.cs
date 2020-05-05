@@ -91,7 +91,7 @@
             this.button_jiandao.TabIndex = 5;
             this.button_jiandao.Text = "剪刀";
             this.button_jiandao.UseVisualStyleBackColor = true;
-            this.button_jiandao.Click += new System.EventHandler(this.button_jiandao_Click);
+            this.button_jiandao.Click += new System.EventHandler(this.button_Click);
             // 
             // button_shitou
             // 
@@ -101,7 +101,7 @@
             this.button_shitou.TabIndex = 6;
             this.button_shitou.Text = "石头";
             this.button_shitou.UseVisualStyleBackColor = true;
-            this.button_shitou.Click += new System.EventHandler(this.button_shitou_Click);
+            this.button_shitou.Click += new System.EventHandler(this.button_Click);
             // 
             // button_bu
             // 
@@ -111,7 +111,7 @@
             this.button_bu.TabIndex = 7;
             this.button_bu.Text = "布";
             this.button_bu.UseVisualStyleBackColor = true;
-            this.button_bu.Click += new System.EventHandler(this.button_bu_Click);
+            this.button_bu.Click += new System.EventHandler(this.button_Click);
             // 
             // Form1
             // 
